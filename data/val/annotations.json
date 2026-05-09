@@ -1,0 +1,292 @@
+[
+    {
+        "image": "invoice141.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "PHỐ MỎ",
+                "date": "2020-08-13",
+                "total": "30000"
+            }
+        }
+    },
+    {
+        "image": "invoice142.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-15",
+                "total": "91674"
+            }
+        }
+    },
+    {
+        "image": "invoice143.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "SIÊU THỊ MINH LOAN",
+                "date": "2020-06-28",
+                "total": "188350"
+            }
+        }
+    },
+    {
+        "image": "invoice144.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-16",
+                "total": "65000"
+            }
+        }
+    },
+    {
+        "image": "invoice146.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-14",
+                "total": "322800"
+            }
+        }
+    },
+    {
+        "image": "invoice147.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-14",
+                "total": "119000"
+            }
+        }
+    },
+    {
+        "image": "invoice148.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-09",
+                "total": "212016"
+            }
+        }
+    },
+    {
+        "image": "invoice149.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "SIEU THI BACH HOA TONG HOP",
+                "date": "2020-08-10",
+                "total": "85700"
+            }
+        }
+    },
+    {
+        "image": "invoice150.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-12",
+                "total": "72000"
+            }
+        }
+    },
+    {
+        "image": "invoice151.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "PHỐ MỎ",
+                "date": "2020-08-13",
+                "total": "50000"
+            }
+        }
+    },
+    {
+        "image": "invoice152.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-15",
+                "total": "46007"
+            }
+        }
+    },
+    {
+        "image": "invoice153.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-09",
+                "total": "53000"
+            }
+        }
+    },
+    {
+        "image": "invoice154.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "CỬA HÀNG NĂM OÁNH",
+                "date": "2020-08-11",
+                "total": "840000"
+            }
+        }
+    },
+    {
+        "image": "invoice155.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Saigon Co.op",
+                "date": "2019-09-20",
+                "total": "27291"
+            }
+        }
+    },
+    {
+        "image": "invoice156.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Nhà Hàng Aozora Sushi",
+                "date": "2020-08-14",
+                "total": "328000"
+            }
+        }
+    },
+    {
+        "image": "invoice157.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+                "date": "2020-08-11",
+                "total": "53000"
+            }
+        }
+    },
+    {
+        "image": "invoice158.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "KAI TEA",
+                "date": "2019-09-20",
+                "total": "102850"
+            }
+        }
+    },
+    {
+        "image": "invoice159.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-10",
+                "total": "33100"
+            }
+        }
+    },
+    {
+        "image": "invoice160.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-11",
+                "total": "400002"
+            }
+        }
+    },
+    {
+        "image": "invoice161.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-12",
+            "total": "36000"
+          }
+        }
+      },
+      {
+        "image": "invoice162.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Minimart Anan",
+            "date": "2020-08-11",
+            "total": "132000"
+          }
+        }
+      },
+      {
+        "image": "invoice163.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-14",
+            "total": "108100"
+          }
+        }
+      },
+      {
+        "image": "invoice164.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Pho Mo",
+            "date": "2020-08-13",
+            "total": "20000"
+          }
+        }
+      },
+      {
+        "image": "invoice165.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Thanh Xuan",
+            "date": "2020-09-30",
+            "total": "12000"
+          }
+        }
+      },
+      {
+        "image": "invoice166.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Minimart Anan",
+            "date": "2020-08-11",
+            "total": "111000"
+          }
+        }
+      },
+      {
+        "image": "invoice167.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-14",
+            "total": "184500"
+          }
+        }
+      },
+      {
+        "image": "invoice168.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-15",
+            "total": "238240"
+          }
+        }
+      },
+      {
+        "image": "invoice169.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-15",
+            "total": "118000"
+          }
+        }
+      },
+      {
+        "image": "invoice170.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Minimart Anan",
+            "date": "2020-08-16",
+            "total": "103000"
+          }
+        }
+      }
+]

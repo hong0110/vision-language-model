@@ -1,0 +1,1352 @@
+[
+    {
+        "image": "invoice1.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "EVN HCMC",
+                "date": "2022-06-29",
+                "total": "15149725"
+            }
+        }
+    },
+    {
+        "image": "invoice2.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "EVN HCMC",
+                "date": "2022-06-29",
+                "total": "1018449"
+            }
+        }
+    },
+    {
+        "image": "invoice3.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "The Noodle House",
+                "date": "2022-03-16",
+                "total": "590000"
+            }
+        }
+    },
+    {
+        "image": "invoice4.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Landmark One",
+                "date": "2025-03-13",
+                "total": "2520720"
+            }
+        }
+    },
+    {
+        "image": "invoice5.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Bach Hoa Xanh",
+                "date": "2024-11-21",
+                "total": "9500"
+            }
+        }
+    },
+    {
+        "image": "invoice7.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Kinh Mat Nguyen Anh",
+                "date": "2025-11-01",
+                "total": "170000"
+            }
+        }
+    },
+    {
+        "image": "invoice8.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "The Gangs Urban",
+                "date": "2026-04-29",
+                "total": "734520"
+            }
+        }
+    },
+    {
+        "image": "invoice9.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Restaurant",
+                "date": "2026-04-30",
+                "total": "17925000"
+            }
+        }
+    },
+    {
+        "image": "invoice11.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Cafe",
+                "date": "null",
+                "total": "41000"
+            }
+        }
+    },
+    {
+        "image": "invoice12.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Mixue",
+                "date": "2025-11-16",
+                "total": "22000"
+            }
+        }
+    },
+    {
+        "image": "invoice13.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Uniqlo",
+                "date": "2020-08-01",
+                "total": "2442000"
+            }
+        }
+    },
+    {
+        "image": "invoice14.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-14",
+                "total": "81302"
+            }
+        }
+    },
+    {
+        "image": "invoice15.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-14",
+                "total": "52700"
+            }
+        }
+    },
+    {
+        "image": "invoice16.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Minimart Anan",
+                "date": "2020-08-09",
+                "total": "107000"
+            }
+        }
+    },
+    {
+        "image": "invoice18.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "null",
+                "total": "99000"
+            }
+        }
+    },
+    {
+        "image": "invoice19.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-09",
+                "total": "345000"
+            }
+        }
+    },
+    {
+        "image": "invoice21.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-09",
+                "total": "112000"
+            }
+        }
+    },
+    {
+        "image": "invoice22.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH Dự án KDC lấn biển cọc 6",
+                "date": "2020-08-12",
+                "total": "14544"
+            }
+        }
+    },
+    {
+        "image": "invoice23.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH Dự án KDC lấn biển cọc 6",
+                "date": "2020-08-12",
+                "total": "309000"
+            }
+        }
+    },
+    {
+        "image": "invoice24.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ 165 Tô Hiệu",
+                "date": "2020-08-17",
+                "total": "48900"
+            }
+        }
+    },
+    {
+        "image": "invoice25.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH 86 Trần Phú",
+                "date": "2020-08-10",
+                "total": "7800"
+            }
+        }
+    },
+    {
+        "image": "invoice26.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH Dự án KDC lấn biển cọc 6",
+                "date": "2020-08-15",
+                "total": "122400"
+            }
+        }
+    },
+    {
+        "image": "invoice27.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-16",
+                "total": "127000"
+            }
+        }
+    },
+    {
+        "image": "invoice28.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "CỬA HÀNG NĂM OÁNH",
+                "date": "2020-08-12",
+                "total": "178000"
+            }
+        }
+    },
+    {
+        "image": "invoice29.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "CỬA HÀNG NĂM OÁNH",
+                "date": "2020-08-12",
+                "total": "63000"
+            }
+        }
+    },
+    {
+        "image": "invoice30.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+                "date": "2020-08-14",
+                "total": "106000"
+            }
+        }
+    },
+    {
+        "image": "invoice31.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "",
+                "date": "2020-08-13",
+                "total": "26016250"
+            }
+        }
+    },
+    {
+        "image": "invoice32.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-12",
+                "total": "85000"
+            }
+        }
+    },
+    {
+        "image": "invoice33.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH 1060-1062 Trần Phú",
+                "date": "2020-08-14",
+                "total": "160000"
+            }
+        }
+    },
+    {
+        "image": "invoice34.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+                "date": "2020-08-14",
+                "total": "84000"
+            }
+        }
+    },
+    {
+        "image": "invoice35.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "null",
+                "total": "226000"
+            }
+        }
+    },
+    {
+        "image": "invoice36.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH 1060-1062 Trần Phú",
+                "date": "2020-08-14",
+                "total": "10000"
+            }
+        }
+    },
+    {
+        "image": "invoice37.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+                "date": "2020-08-09",
+                "total": "12000"
+            }
+        }
+    },
+    {
+        "image": "invoice38.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH 112 Thanh Niên",
+                "date": "2020-08-13",
+                "total": "10500"
+            }
+        }
+    },
+    {
+        "image": "invoice39.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-09",
+                "total": "63000"
+            }
+        }
+    },
+    {
+        "image": "invoice40.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH 590 Trần Phú",
+                "date": "2020-08-15",
+                "total": "99000"
+            }
+        }
+    },
+    {
+        "image": "invoice41.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-13",
+                "total": "145000"
+            }
+        }
+    },
+    {
+        "image": "invoice42.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Co.opmart XA LO HA NOI",
+                "date": "2020-06-23",
+                "total": "149585"
+            }
+        }
+    },
+    {
+        "image": "invoice43.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "THE COFFEE HOUSE",
+                "date": "2020-10-01",
+                "total": "101000"
+            }
+        }
+    },
+    {
+        "image": "invoice44.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VM+ QNH 590 Trần Phú",
+                "date": "2020-08-15",
+                "total": "48000"
+            }
+        }
+    },
+    {
+        "image": "invoice45.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-12",
+                "total": "62996"
+            }
+        }
+    },
+    {
+        "image": "invoice46.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-16",
+                "total": "227040"
+            }
+        }
+    },
+    {
+        "image": "invoice47.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "CỬA HÀNG NĂM OÁNH",
+                "date": "2020-08-12",
+                "total": "10000"
+            }
+        }
+    },
+    {
+        "image": "invoice48.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-11",
+                "total": "13000"
+            }
+        }
+    },
+    {
+        "image": "invoice49.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "THỨC COFFEE",
+                "date": "2019-03-31",
+                "total": "35000"
+            }
+        }
+    },
+    {
+        "image": "invoice50.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "CỬA HÀNG NĂM OÁNH",
+                "date": "2020-08-12",
+                "total": "210000"
+            }
+        }
+    },
+    {
+        "image": "invoice51.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "CH THỜI TRANG ADIDAS",
+                "date": "2020-01-22",
+                "total": "1360000"
+            }
+        }
+    },
+    {
+        "image": "invoice52.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "THỨC COFFEE",
+                "date": "2019-03-31",
+                "total": "70000"
+            }
+        }
+    },
+    {
+        "image": "invoice53.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-16",
+                "total": "62000"
+            }
+        }
+    },
+    {
+        "image": "invoice54.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "",
+                "total": "475000"
+            }
+        }
+    },
+    {
+        "image": "invoice55.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-11",
+                "total": "168000"
+            }
+        }
+    },
+    {
+        "image": "invoice56.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Co.opmart XA LO HA NOI",
+                "date": "2020-07-16",
+                "total": "87196"
+            }
+        }
+    },
+    {
+        "image": "invoice57.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 1060-1062 Trần Phú",
+            "date": "2020-08-13",
+            "total": "20800"
+          }
+        }
+      },
+      {
+        "image": "invoice58.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 112 Thanh Niên",
+            "date": "2020-08-11",
+            "total": "22000"
+          }
+        }
+      },
+      {
+        "image": "invoice59.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "THE COFFEE HOUSE",
+            "date": "2020-10-01",
+            "total": "49000"
+          }
+        }
+      },
+      {
+        "image": "invoice60.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINI MART",
+            "date": "2020-07-13",
+            "total": "253000"
+          }
+        }
+      },
+      {
+        "image": "invoice61.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "THỨC COFFEE",
+            "date": "2019-04-06",
+            "total": "35000"
+          }
+        }
+      },
+      {
+        "image": "invoice62.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MILANO COFFEE",
+            "date": "2020-10-02",
+            "total": "19000"
+          }
+        }
+      },
+      {
+        "image": "invoice63.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-17",
+            "total": "43000"
+          }
+        }
+      },
+      {
+        "image": "invoice64.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "SIEU THI BACH HOA TONG HOP",
+            "date": "null",
+            "total": "72000"
+          }
+        }
+      },
+      {
+        "image": "invoice65.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ",
+            "date": "2020-08-08",
+            "total": "125000"
+          }
+        }
+      },
+      {
+        "image": "invoice66.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "SIEU THI BACH HOA TONG HOP",
+            "date": "null",
+            "total": "34000"
+          }
+        }
+      },
+      {
+        "image": "invoice67.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+            "date": "2020-08-15",
+            "total": "18000"
+          }
+        }
+      },
+      {
+        "image": "invoice68.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+            "date": "2020-08-14",
+            "total": "95000"
+          }
+        }
+      },
+      {
+        "image": "invoice69.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "SIÊU THỊ MINH LOAN",
+            "date": "2020-08-14",
+            "total": "68000"
+          }
+        }
+      },
+      {
+        "image": "invoice70.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-13",
+            "total": "27000"
+          }
+        }
+      },
+      {
+        "image": "invoice71.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+            "date": "2020-08-15",
+            "total": "37000"
+          }
+        }
+      },
+      {
+        "image": "invoice72.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "LOTTERIA",
+            "date": "2020-08-09",
+            "total": "27000"
+          }
+        }
+      },
+      {
+        "image": "invoice73.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "PHỞ MỎ",
+            "date": "2020-08-09",
+            "total": "45000"
+          }
+        }
+      },
+      {
+        "image": "invoice74.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Tổ 8 Khu 3B Cẩm Trung",
+            "date": "2020-08-12",
+            "total": "18000"
+          }
+        }
+      },
+      {
+        "image": "invoice75.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-11",
+            "total": "74000"
+          }
+        }
+      },
+      {
+        "image": "invoice76.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "CỬA HÀNG NĂM OÁNH",
+            "date": "2020-08-11",
+            "total": "45000"
+          }
+        }
+      },
+      {
+        "image": "invoice77.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-12",
+            "total": "81000"
+          }
+        }
+      },
+      {
+        "image": "invoice78.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ",
+            "date": "2020-08-10",
+            "total": "80000"
+          }
+        }
+      },
+      {
+        "image": "invoice79.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 1060-1062 Trần Phú",
+            "date": "2020-08-15",
+            "total": "25600"
+          }
+        }
+      },
+      {
+        "image": "invoice80.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-16",
+            "total": "118000"
+          }
+        }
+      },
+      {
+        "image": "invoice81.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+            "date": "2020-08-09",
+            "total": "22000"
+          }
+        }
+      },
+      {
+        "image": "invoice82.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "CỬA HÀNG NĂM OÁNH",
+            "date": "2020-08-12",
+            "total": "82000"
+          }
+        }
+      },
+      {
+        "image": "invoice83.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Y09 - 336 Võ Văn Ngân Q.TĐ",
+            "date": "2018-05-19",
+            "total": "510000"
+          }
+        }
+      },
+      {
+        "image": "invoice84.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Dự án KDC lấn biển cọc 6",
+            "date": "2020-08-14",
+            "total": "230567"
+          }
+        }
+      },
+      {
+        "image": "invoice85.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 1060-1062 Trần Phú",
+            "date": "2020-08-15",
+            "total": "200000"
+          }
+        }
+      },
+      {
+        "image": "invoice86.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ HNI CC Nàng Hương",
+            "date": "2020-08-13",
+            "total": "23600"
+          }
+        }
+      },
+      {
+        "image": "invoice87.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "PHO MO",
+            "date": "2020-08-11",
+            "total": "160000"
+          }
+        }
+      },
+      {
+        "image": "invoice88.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-12",
+            "total": "42904"
+          }
+        }
+      },
+      {
+        "image": "invoice89.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-13",
+            "total": "31700"
+          }
+        }
+      },
+      {
+        "image": "invoice90.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-15",
+            "total": "62500"
+          }
+        }
+      },
+      {
+        "image": "invoice91.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 86 Trần Phú",
+            "date": "2020-08-10",
+            "total": "54287"
+          }
+        }
+      },
+      {
+        "image": "invoice92.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "CỬA HÀNG NĂM OÁNH",
+            "date": "2020-08-11",
+            "total": "240000"
+          }
+        }
+      },
+      {
+        "image": "invoice94.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "CỬA HÀNG NĂM OÁNH",
+            "date": "2020-08-10",
+            "total": "92000"
+          }
+        }
+      },
+      {
+        "image": "invoice95.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Co.op Food HN THE K-PARK",
+            "date": "2019-09-19",
+            "total": "36490"
+          }
+        }
+      },
+      {
+        "image": "invoice96.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "CỬA HÀNG NĂM OÁNH",
+            "date": "2020-08-11",
+            "total": "116000"
+          }
+        }
+      },
+      {
+        "image": "invoice97.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Dự án quỹ đất đường sắt",
+            "date": "2020-08-14",
+            "total": "98085"
+          }
+        }
+      },
+      {
+        "image": "invoice98.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "null",
+            "total": "102000"
+          }
+        }
+      },
+      {
+        "image": "invoice99.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "CỬA HÀNG NĂM OÁNH",
+            "date": "2020-08-12",
+            "total": "46000"
+          }
+        }
+      },
+      {
+        "image": "invoice100.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Tiệm trà Thanh Xuân",
+            "date": "2020-10-04",
+            "total": "88000"
+          }
+        }
+      },
+      {
+        "image": "invoice101.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "T MART",
+            "date": "2020-01-09",
+            "total": "145880"
+          }
+        }
+      },
+      {
+        "image": "invoice102.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-15",
+            "total": "64000"
+          }
+        }
+      },
+      {
+        "image": "invoice103.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-15",
+            "total": "236000"
+          }
+        }
+      },
+      {
+        "image": "invoice104.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 112 Thanh Niên",
+            "date": "2020-08-10",
+            "total": "21300"
+          }
+        }
+      },
+      {
+        "image": "invoice105.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-15",
+            "total": "238008"
+          }
+        }
+      },
+      {
+        "image": "invoice106.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Nhà Hàng Aozora Sushi",
+            "date": "2020-08-15",
+            "total": "421000"
+          }
+        }
+      },
+      {
+        "image": "invoice107.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ HCM 793 Nguyễn Kiệm",
+            "date": "2019-03-30",
+            "total": "50000"
+          }
+        }
+      },
+      {
+        "image": "invoice108.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "null",
+            "total": "105806"
+          }
+        }
+      },
+      {
+        "image": "invoice109.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Guitar Cafe",
+            "date": "2020-10-05",
+            "total": "25000"
+          }
+        }
+      },
+      {
+        "image": "invoice110.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Pharmacity",
+            "date": "2020-06-01",
+            "total": "45280"
+          }
+        }
+      },
+      {
+        "image": "invoice111.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+            "date": "2020-08-14",
+            "total": "58000"
+          }
+        }
+      },
+      {
+        "image": "invoice112.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Dự án quỹ đất đường sắt",
+            "date": "2020-08-15",
+            "total": "30900"
+          }
+        }
+      },
+      {
+        "image": "invoice113.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 590 Trần Phú",
+            "date": "2020-08-14",
+            "total": "12000"
+          }
+        }
+      },
+      {
+        "image": "invoice114.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Tổ 7 Khu Minh Tiến A",
+            "date": "2020-08-14",
+            "total": "543704"
+          }
+        }
+      },
+      {
+        "image": "invoice115.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-17",
+            "total": "55000"
+          }
+        }
+      },
+      {
+        "image": "invoice116.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Tổ 7, Khu Minh Tiến A",
+            "date": "2020-08-14",
+            "total": "600900"
+          }
+        }
+      },
+      {
+        "image": "invoice117.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+            "date": "2020-08-15",
+            "total": "20000"
+          }
+        }
+      },
+      {
+        "image": "invoice118.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "PHỞ MỎ",
+            "date": "2020-08-13",
+            "total": "35000"
+          }
+        }
+      },
+      {
+        "image": "invoice119.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-17",
+            "total": "94000"
+          }
+        }
+      },
+      {
+        "image": "invoice120.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "SCTC CÔ THỎ 104 TRẦN PHÚ - CẨM PHẢ",
+            "date": "2020-08-08",
+            "total": "70000"
+          }
+        }
+      },
+      {
+        "image": "invoice121.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "THE BLUES",
+            "date": "2020-08-13",
+            "total": "299000"
+          }
+        }
+      },
+      {
+        "image": "invoice122.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Số 463 Tổ 66 Khu Diêm Thủy",
+            "date": "2020-08-15",
+            "total": "74100"
+          }
+        }
+      },
+      {
+        "image": "invoice123.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 86 Trần Phú",
+            "date": "2020-08-09",
+            "total": "32500"
+          }
+        }
+      },
+      {
+        "image": "invoice124.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-16",
+            "total": "311016"
+          }
+        }
+      },
+      {
+        "image": "invoice125.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH Tổ 7, Khu Minh Tiến A",
+            "date": "2020-08-14",
+            "total": "51500"
+          }
+        }
+      },
+      {
+        "image": "invoice126.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VM+ QNH 590 Trần Phú",
+            "date": "2020-08-14",
+            "total": "11900"
+          }
+        }
+      },
+      {
+        "image": "invoice127.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Vietcombank",
+            "date": "2020-05-20",
+            "total": "171500"
+          }
+        }
+      },
+      {
+        "image": "invoice128.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+            "date": "2020-08-14",
+            "total": "45000"
+          }
+        }
+      },
+      {
+        "image": "invoice129.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Co.op Food HN THE K-PARK",
+            "date": "2019-09-19",
+            "total": "32200"
+          }
+        }
+      },
+      {
+        "image": "invoice130.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "MINIMART ANAN",
+            "date": "2020-08-10",
+            "total": "77000"
+          }
+        }
+      },
+      {
+        "image": "invoice131.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-17",
+                "total": "101000"
+            }
+        }
+    },
+    {
+        "image": "invoice132.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-09",
+                "total": "41500"
+            }
+        }
+    },
+    {
+        "image": "invoice133.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "NHÀ SÁCH GD-TC CẨM PHẢ",
+                "date": "2020-08-14",
+                "total": "97000"
+            }
+        }
+    },
+    {
+        "image": "invoice134.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "MINIMART ANAN",
+                "date": "2020-08-12",
+                "total": "110000"
+            }
+        }
+    },
+    {
+        "image": "invoice135.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Phúc Anh Minimart",
+                "date": "2020-08-14",
+                "total": "171000"
+            }
+        }
+    },
+    {
+        "image": "invoice136.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "VinCommerce",
+                "date": "2020-08-14",
+                "total": "191084"
+            }
+        }
+    },
+    {
+        "image": "invoice137.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "CỬA HÀNG NĂM OÁNH",
+                "date": "2020-08-11",
+                "total": "131000"
+            }
+        }
+    },
+    {
+        "image": "invoice138.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": null,
+                "date": "2020-08-14",
+                "total": "9220282"
+            }
+        }
+    },
+    {
+        "image": "invoice139.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "THE COFFEE HOUSE",
+                "date": "2020-10-01",
+                "total": "50000"
+            }
+        }
+    },
+    {
+        "image": "invoice140.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "store": "Thanh Xuân",
+                "date": "2020-10-05",
+                "total": "39000"
+            }
+        }
+    }
+]

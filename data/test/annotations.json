@@ -1,0 +1,272 @@
+[
+    {
+      "image": "invoice171.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Cua Hang Nam Oanh",
+          "date": "2020-08-11",
+          "total": "74000"
+        }
+      }
+    },
+    {
+      "image": "invoice172.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Lamason10k",
+          "date": "2020-08-20",
+          "total": "45000"
+        }
+      }
+    },
+    {
+      "image": "invoice173.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Unknown",
+          "date": "2020-10-04",
+          "total": "81000"
+        }
+      }
+    },
+    {
+      "image": "invoice174.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "VinCommerce",
+          "date": "2020-08-12",
+          "total": "88700"
+        }
+      }
+    },
+    {
+      "image": "invoice175.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Cua Hang Nam Oanh",
+          "date": "2020-08-11",
+          "total": "145000"
+        }
+      }
+    },
+    {
+      "image": "invoice176.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "VinCommerce",
+          "date": "2020-08-14",
+          "total": "8435"
+        }
+      }
+    },
+    {
+      "image": "invoice177.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Cua Hang Nam Oanh",
+          "date": "2020-08-11",
+          "total": "227000"
+        }
+      }
+    },
+    {
+      "image": "invoice179.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "VinCommerce",
+          "date": "2020-08-13",
+          "total": "10000"
+        }
+      }
+    },
+    {
+      "image": "invoice180.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "VinCommerce",
+          "date": "2020-08-09",
+          "total": "60550"
+        }
+      }
+    },
+    {
+      "image": "invoice181.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Nha Sach GD-TC Cam Pha",
+          "date": "2020-08-14",
+          "total": "104000"
+        }
+      }
+    },
+    {
+      "image": "invoice182.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "VinCommerce",
+          "date": "2020-08-12",
+          "total": "81500"
+        }
+      }
+    },
+    {
+      "image": "invoice183.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Minimart Anan",
+          "date": "2020-08-12",
+          "total": "47000"
+        }
+      }
+    },
+    {
+      "image": "invoice184.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "VinCommerce",
+          "date": "2020-08-13",
+          "total": "9500"
+        }
+      }
+    },
+    {
+      "image": "invoice185.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Sieu Thi Minh Loan",
+          "date": "2020-08-01",
+          "total": "168500"
+        }
+      }
+    },
+    {
+      "image": "invoice186.jpg",
+      "ground_truth": {
+        "gt_parse": {
+          "store": "Pho Mo",
+          "date": "2020-08-13",
+          "total": "82000"
+        }
+      }
+    },
+    {
+        "image": "invoice187.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Cua Hang Nam Oanh",
+            "date": "2020-08-11",
+            "total": "54000"
+          }
+        }
+      },
+      {
+        "image": "invoice188.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-14",
+            "total": "10000"
+          }
+        }
+      },
+      {
+        "image": "invoice189.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Unknown",
+            "date": "2020-08-11",
+            "total": "345000"
+          }
+        }
+      },
+      {
+        "image": "invoice191.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-14",
+            "total": "52700"
+          }
+        }
+      },
+      {
+        "image": "invoice192.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Minimart Anan",
+            "date": "2020-08-16",
+            "total": "34000"
+          }
+        }
+      },
+      {
+        "image": "invoice193.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "Saigon Co.op",
+            "date": "2019-09-19",
+            "total": "25200"
+          }
+        }
+      },
+      {
+        "image": "invoice194.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-11",
+            "total": "119700"
+          }
+        }
+      },
+      {
+        "image": "invoice196.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "SCTC Co Tho",
+            "date": "2020-08-08",
+            "total": "60000"
+          }
+        }
+      },
+      {
+        "image": "invoice197.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-15",
+            "total": "74100"
+          }
+        }
+      },
+      {
+        "image": "invoice198.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-14",
+            "total": "60582"
+          }
+        }
+      },
+      {
+        "image": "invoice199.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-10",
+            "total": "32272"
+          }
+        }
+      },
+      {
+        "image": "invoice200.jpg",
+        "ground_truth": {
+          "gt_parse": {
+            "store": "VinCommerce",
+            "date": "2020-08-15",
+            "total": "25500"
+          }
+        }
+      }
+  ]
